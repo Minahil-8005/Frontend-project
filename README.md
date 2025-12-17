@@ -13,7 +13,7 @@ I am a student at GC University, passionate about technology, programming, and b
  
 ## 📫 Contact Info
 - Email: minahilf485@gmail.com
-- LinkedIn: (https://linkedin.com/in/Minahil Fatima)  
+- LinkedIn: (https://linkedin.com/in/MinahilFatima)  
 - GitHub: (https://github.com/Minahil-8005)
 
 
