@@ -8,9 +8,8 @@ I am a student at GC University, passionate about technology, programming, and b
 - Frameworks/Tools: Bootstrap, VS Code, Git & GitHub  
 
 ##Projects
-## Live Demo
-🔗 https://minahil-8005.github.io/Frontend-project/ 
- 
+My personal portfolio---
+
 ## 📫 Contact Info
 - Email: minahilf485@gmail.com
 - LinkedIn: (https://linkedin.com/in/MinahilFatima)  
