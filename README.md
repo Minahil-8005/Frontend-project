@@ -7,8 +7,9 @@ I am a student at GC University, passionate about technology, programming, and b
 - Languages: Python, C++, HTML, CSS, SQL  
 - Frameworks/Tools: Bootstrap, VS Code, Git & GitHub  
 
-##Projects
-My personal portfolio---
+##Projects:
+
+-My personal portfoli0
 
 ## 📫 Contact Info
 - Email: minahilf485@gmail.com
