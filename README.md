@@ -18,8 +18,13 @@ I am a student at GC University, passionate about technology, programming, and b
 - GitHub: (https://github.com/Minahil-8005)
 
 
-
-
+- Below is my web portfolio that I've made using html,Css and Java as a frontend developer...
 
 ## Live Demo
 🔗 https://minahil-8005.github.io/Frontend-project/
+
+- Below is my hachthon project in which I've created an Ai quiz generator using frontend and backend development with the help of my group members...
+
+  ## 🌐 Live Demo  
+🔗 https://hackathon-linker--fminahil390.replit.app
+  
