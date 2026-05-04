@@ -56,4 +56,10 @@ Risk Assessment: Uses logic-based analysis to categorize risk into High, Medium,
 Educational Database: Includes risk factors and professional advice for 8 different cancer types.
 
 History Log: Feature to track and view previous symptom analyses.
+
+<img width="299" height="396" alt="Screenshot 2026-05-04 192751" src="https://github.com/user-attachments/assets/050a3a0c-fcfe-4ed2-8a23-c08cd7658b77" />
+<img width="254" height="205" alt="Screenshot 2026-05-04 193250" src="https://github.com/user-attachments/assets/b5603aa8-6a52-4bdc-a12f-f23a58150c2c" />
+<img width="507" height="398" alt="Screenshot 2026-05-04 192847" src="https://github.com/user-attachments/assets/7c31f7b6-78f6-4fdb-9f63-8547655f1881" />
+
+
   
