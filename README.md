@@ -44,18 +44,33 @@ https://minahil-8005.github.io/Frontend-project/
   **DEMO LINK**
 file:///C:/Users/ULC/OneDrive/Documents/PYTHON/portfolio.html
 ---
-**Cancer Symptom Analyzer (Python GUI)**
-**Project Overview**
-I developed MedScan Pro, a desktop-based application designed to spread awareness about early cancer detection. This tool allows users to select different cancer types and check their symptoms to understand potential risk levels based on medical knowledge bases.
+# 🩺 MedScan Pro: Advanced Cancer Symptom Analyzer
 
-**Key Features**
-Interactive GUI: Built with Python's Tkinter for a clean, user-friendly experience.
+### **Project Overview**
+**MedScan Pro** is a specialized desktop application developed to bridge the gap between healthcare awareness and technology. Developed using **Python and the Tkinter GUI framework**, this tool provides an interactive platform for users to evaluate symptoms associated with various cancer types. It is designed to promote early detection awareness through a logic-driven risk assessment engine.
 
-Risk Assessment: Uses logic-based analysis to categorize risk into High, Medium, or Low based on selected symptoms.
+---
 
-Educational Database: Includes risk factors and professional advice for 8 different cancer types.
+### **🚀 Key Features & Functionalities**
+*   **Comprehensive Health Database:** Supports a repository of **8 distinct cancer categories** (Breast, Lung, Skin, Colon, Prostate, Leukemia, Cervical, and Liver).
+*   **Logic-Based Risk Assessment:** 
+    *   Implements a **weighted analysis algorithm** that calculates risk based on the frequency and severity of selected symptoms.
+    *   Outputs results in three categories: **High, Medium, or Low Risk**.
+*   **Modern User Interface (GUI):**
+    *   Custom-themed dark interface for better readability.
+    *   Dynamic dropdowns and checkbox selections for seamless user interaction.
+*   **History & Logging:** (Optional Feature) Capability to track previous analysis results for personal record-keeping.
 
-History Log: Feature to track and view previous symptom analyses.
+---
+
+### **🛠️ Technical Architecture**
+*   **Language:** Python 3.10+[cite: 1]
+*   **GUI Framework:** Tkinter (Standard Python Interface)
+*   **Core Logic:** Developed using **Advanced Data Structures** (Nested Dictionaries) to manage symptom-cancer mappings[cite: 1].
+*   **Programming Concepts Applied:** 
+    *   Object-Oriented Programming (OOP) principles.
+    *   Event-driven programming (Button triggers and callbacks).
+    *   Conditional control flow for risk determination[cite: 1].
 
 <img width="299" height="396" alt="Screenshot 2026-05-04 192751" src="https://github.com/user-attachments/assets/050a3a0c-fcfe-4ed2-8a23-c08cd7658b77" />
 <img width="254" height="205" alt="Screenshot 2026-05-04 193250" src="https://github.com/user-attachments/assets/b5603aa8-6a52-4bdc-a12f-f23a58150c2c" />
