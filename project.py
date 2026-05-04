@@ -4,10 +4,16 @@ from tkinter import messagebox
 # 1. SIMPLE DATA STORAGE
 # Sirf zaroori data rakha hai
 CANCER_INFO = {
+   # Updated Data with 8 Cancer Types
+CANCER_INFO = {
     "Breast Cancer": ["Lump in breast", "Change in size", "Nipple discharge", "Skin dimpling"],
     "Lung Cancer": ["Persistent cough", "Coughing blood", "Chest pain", "Shortness of breath"],
     "Skin Cancer": ["New mole", "Mole changing color", "Sore that wont heal", "Itchy patch"],
-    "Colon Cancer": ["Blood in stool", "Change in bowel habits", "Abdominal pain", "Weight loss"]
+    "Colon Cancer": ["Blood in stool", "Change in bowel habits", "Abdominal pain", "Weight loss"],
+    "Prostate Cancer": ["Difficulty urinating", "Frequent urination", "Blood in urine", "Pain in hips"],
+    "Leukemia": ["Frequent infections", "Excessive fatigue", "Easy bruising", "Night sweats"],
+    "Cervical Cancer": ["Unusual bleeding", "Pelvic pain", "Pain during intercourse", "Heavier periods"],
+    "Liver Cancer": ["Yellow skin (Jaundice)", "Upper abdominal pain", "Loss of appetite", "Nausea"]
 }
 
 def analyze_risk():
