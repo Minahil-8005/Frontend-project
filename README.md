@@ -64,13 +64,13 @@ file:///C:/Users/ULC/OneDrive/Documents/PYTHON/portfolio.html
 ---
 
 ### **🛠️ Technical Architecture**
-*   **Language:** Python 3.10+[cite: 1]
+*   **Language:** Python 3.10+
 *   **GUI Framework:** Tkinter (Standard Python Interface)
-*   **Core Logic:** Developed using **Advanced Data Structures** (Nested Dictionaries) to manage symptom-cancer mappings[cite: 1].
+*   **Core Logic:** Developed using **Advanced Data Structures** (Nested Dictionaries) to manage symptom-cancer mappings
 *   **Programming Concepts Applied:** 
     *   Object-Oriented Programming (OOP) principles.
     *   Event-driven programming (Button triggers and callbacks).
-    *   Conditional control flow for risk determination[cite: 1].
+    *   Conditional control flow for risk determination
 
 <img width="299" height="396" alt="Screenshot 2026-05-04 192751" src="https://github.com/user-attachments/assets/050a3a0c-fcfe-4ed2-8a23-c08cd7658b77" />
 
