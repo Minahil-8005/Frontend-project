@@ -17,12 +17,32 @@ I am a student at GC University, passionate about technology, programming, and b
 (https://www.linkedin.com/in/minahil-fatima-94528b394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: (https://github.com/Minahil-8005)
 
+# 🚀 IT Portfolio & Technical Projects | Minahil Fatima
 
-- Below is my web portfolio that I've made using html,Css and Java as a frontend developer...
+### **About Me**
+I am a **BS Information Technology** student at **GC Women University Sialkot** (Batch 2023-2027). I am a motivated developer with a focus on Python scripting, web design, and project management. This repository serves as a showcase of my academic journey and technical growth.
+---
+### **✨ Key Projects**
+*   **HealthSentry: Python Symptom Analyzer**
+    *   A desktop GUI application built using **Python and Tkinter**.
+    *   Analyzes user symptoms to assess potential risk levels for 8 different types of cancer.
+    *   Implements conditional logic and a structured health database for educational awareness.
+*   **Interactive Personal Portfolio**
+    *   A high-performance personal website developed using **HTML5 and CSS3**
+    *   Features responsive layouts, smooth animations, and is deployed via **GitHub Pages**
+*   **Relational Database Design**
+    *   Designed and implemented SQL-based systems with a focus on data normalization (3NF)
 
-## Live Demo
-🔗 https://minahil-8005.github.io/Frontend-project/
+---
 
+### **🛠️ Technical Expertise**
+*   **Programming:** Python (Variables, Loops, Functions, Data Structures)
+*   **Web Development:** HTML5, CSS3, Semantic Web
+*   **Database:** SQL Database Design and Administration
+*   **Management:** Project Management Fundamentals and MS Office Proficiency
+  **DEMO LINK**
+file:///C:/Users/ULC/OneDrive/Documents/PYTHON/portfolio.html
+---
 **Cancer Symptom Analyzer (Python GUI)**
 **Project Overview**
 I developed MedScan Pro, a desktop-based application designed to spread awareness about early cancer detection. This tool allows users to select different cancer types and check their symptoms to understand potential risk levels based on medical knowledge bases.
