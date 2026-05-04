@@ -32,7 +32,8 @@ I am a **BS Information Technology** student at **GC Women University Sialkot** 
     *   Features responsive layouts, smooth animations, and is deployed via **GitHub Pages**
 *   **Relational Database Design**
     *   Designed and implemented SQL-based systems with a focus on data normalization (3NF)
-
+ DEMO LINK
+https://minahil-8005.github.io/Frontend-project/
 ---
 
 ### **🛠️ Technical Expertise**
