@@ -23,5 +23,16 @@ I am a student at GC University, passionate about technology, programming, and b
 ## Live Demo
 🔗 https://minahil-8005.github.io/Frontend-project/
 
+**Cancer Symptom Analyzer (Python GUI)**
+**Project Overview**
+I developed MedScan Pro, a desktop-based application designed to spread awareness about early cancer detection. This tool allows users to select different cancer types and check their symptoms to understand potential risk levels based on medical knowledge bases.
 
+**Key Features**
+Interactive GUI: Built with Python's Tkinter for a clean, user-friendly experience.
+
+Risk Assessment: Uses logic-based analysis to categorize risk into High, Medium, or Low based on selected symptoms.
+
+Educational Database: Includes risk factors and professional advice for 8 different cancer types.
+
+History Log: Feature to track and view previous symptom analyses.
   
