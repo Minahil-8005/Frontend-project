@@ -1,10 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# 1. SIMPLE DATA STORAGE
-# Sirf zaroori data rakha hai
 CANCER_INFO = {
-   # Updated Data with 8 Cancer Types
+ 
 CANCER_INFO = {
     "Breast Cancer": ["Lump in breast", "Change in size", "Nipple discharge", "Skin dimpling"],
     "Lung Cancer": ["Persistent cough", "Coughing blood", "Chest pain", "Shortness of breath"],
@@ -20,7 +18,6 @@ def analyze_risk():
     selected_cancer = cancer_var.get()
     symptoms = CANCER_INFO[selected_cancer]
     
-    # Check karna kitne boxes tick hain
     score = 0
     for var in checkbox_vars:
         if var.get() == True:
@@ -30,7 +27,7 @@ def analyze_risk():
         messagebox.showwarning("Warning", "Kam az kam ek symptom select karein!")
         return
 
-    # Simple Risk Calculation
+
     total = len(symptoms)
     percentage = (score / total) * 100
     
@@ -53,7 +50,6 @@ def update_symptoms(*args):
     
     checkbox_vars.clear()
     
-    # Naye checkboxes lagana
     selected = cancer_var.get()
     symptoms_list = CANCER_INFO[selected]
     
@@ -63,7 +59,6 @@ def update_symptoms(*args):
         cb = tk.Checkbutton(symptom_frame, text=s, variable=var, font=("Arial", 10))
         cb.pack(anchor="w", padx=10, pady=2)
 
-# 2. MAIN WINDOW SETUP
 root = tk.Tk()
 root.title("Simple Cancer Symptom Checker")
 root.geometry("400x500")
